@@ -19,16 +19,22 @@ team ->(Player IPL Team)
 ## Project Structure
 
 DreamTeam-Tracker/
+
 ├── com.sid.client/
 │ └── IPL_Client.java
+
 ├── com.sid.controller/
 │ └── IPLController.java
+
 ├── com.sid.dao/
 │ └── IPL_Dao.java
+
 ├── com.sid.entity/
 │ └── Player.java
+
 ├── com.sid.service/
 │ └── IPL_Service.java
+
 ├── com.sid.utility/
 │ └── IPLUtility.java
 └── README.md
@@ -40,14 +46,21 @@ DreamTeam-Tracker enables the tracking of IPL (Indian Premier League) player sta
 ## Features
 
 Manage Player Data: Add, update, delete, and retrieve player information.
+
 Team-based Filtering: View players from specific teams (e.g., CSK, MI, RCB).
+
 Statistical Queries: Run queries to calculate player statistics such as total runs and wickets, or identify top performers.
+
 CRUD Operations: Full support for Create, Read, Update, and Delete operations on player data.
+
 Interactive Reports: Generate detailed reports for individual players or teams.
 
 ## Technologies Used
 
 Java (JDBC): Used to handle the interaction between the application and the MySQL database.
+
 MySQL: Relational database management system to store player data.
+
 MySQL Workbench: For querying and managing the MySQL database.
+
 Eclipse/IntelliJ IDEA: Integrated Development Environment (IDE) for development.
