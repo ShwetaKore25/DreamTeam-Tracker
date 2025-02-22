@@ -21,21 +21,27 @@ team ->(Player IPL Team)
 DreamTeam-Tracker/
 
 ├── com.sid.client/
+
 │ └── IPL_Client.java
 
 ├── com.sid.controller/
+
 │ └── IPLController.java
 
 ├── com.sid.dao/
+
 │ └── IPL_Dao.java
 
 ├── com.sid.entity/
+
 │ └── Player.java
 
 ├── com.sid.service/
+
 │ └── IPL_Service.java
 
 ├── com.sid.utility/
+
 │ └── IPLUtility.java
 └── README.md
 
