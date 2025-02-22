@@ -6,15 +6,15 @@ DreamTeam-Tracker is a powerful IPL player management system that allows users t
 
 serial_no ->(PK)
 
-jrno ->(Jersey NO)
+jn ->(Jersey NO)
 
 name ->(Player Name)
 
 runs ->(player Runs)
 
-wicket ->(Player Wickets)
+wickets ->(Player Wickets)
 
-team ->(Player IPL Team)
+tname ->(Player IPL Team)
 
 ## Project Structure
 
