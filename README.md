@@ -10,7 +10,9 @@ name ->(Player Name)
 runs ->(player Runs)
 wicket ->(Player Wickets)
 team ->(Player IPL Team)
-Project Structure
+
+#Project Structure
+
 DreamTeam-Tracker/
 ├── com.sid.client/
 │ └── IPL_Client.java
